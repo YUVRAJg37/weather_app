@@ -22,7 +22,7 @@ Visit on netlify : [Project Link](https://weather-react-tw-application.netlify.a
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Tanush15/Weather-app.git
+git clone https://github.com/YUVRAJg37/weather_app
 ```
 
 2. Change the working directory
